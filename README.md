@@ -1,3 +1,4 @@
-Cont = 0
+for i int range(1)
+
 
 
